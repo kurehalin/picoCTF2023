@@ -12,6 +12,7 @@ beginner write up for picoCTF2023
 |Problem|Points|
 |-|-|
 |[money-ware](/Genaral_skills/money-ware/money-ware.md)|100|
+|[repetition](/Genaral_skills/repetitions/repetitions.md)|100|
 ### Web Exploitation
 ### Cryptography
 ### Forensics
