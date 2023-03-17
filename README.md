@@ -16,11 +16,14 @@ beginner write up for picoCTF2023
 |[Rules 2023](/Genaral_skills/Rules2023/Rules2023.md)|100|
 |[chrono](/Genaral_skills/chrono/chrono.md)|100|
 |[Permissions](/Genaral_skills/Permissions/Permissions.md)|100|
-|||
+|[useless](/Genaral_skills/useless/useless.md)|100|
+
 ### Web Exploitation
 |Problem|Points|
 |-|-|
-|||
+|[findme](/Web_Exploitation/findme/findme.md)|100|
+|[MatchTheRegex](/Web_Exploitation/MatchTheRegex/MatchTheRegex.md)|100|
+
 
 ### Cryptography
 |Problem|Points|
@@ -30,6 +33,19 @@ beginner write up for picoCTF2023
 |||
 
 ### Forensics
-|Pro||
+|Problem|Points|
+|-|-|
+|[hideme](/Forensics/hideme/hideme.md)|100|
+|[PcapPoisoning](/Forensics/PcapPoisoning/PcapPoisoning.md)|100|
+|[who is it](/Forensics/whoisit/whoisit.md)|100|
+### Reverse Engineering
+|Problem|Points|
+|-|-|
+|[SafeOpener2](/Reverse_Engineering/SafeOpener2/SafeOpener2.md)|100|
+|[reverse](/Reverse_Engineering/reverse/reverse.md)|100|
 ### Binary Exploitation
+|Problem|Points|
+|-|-|
+|[two-sum](/Binary_Exploitation/two-sum/two-sum.md)|100|
+|||
 
