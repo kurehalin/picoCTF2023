@@ -30,5 +30,6 @@ beginner write up for picoCTF2023
 |||
 
 ### Forensics
+|Pro||
 ### Binary Exploitation
 
